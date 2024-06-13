@@ -1,6 +1,6 @@
 package com.rajeev.vrid_blogapplication.di
 
-import com.rajeev.vridblog.network.BlogService
+import com.rajeev.vrid_blogapplication.network.BlogService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

@@ -5,7 +5,7 @@ import androidx.lifecycle.map
 import com.rajeev.vrid_blogapplication.database.asDomainModel
 import com.rajeev.vrid_blogapplication.domain.BlogList
 import com.rajeev.vridblog.database.BlogDatabase
-import com.rajeev.vridblog.network.BlogService
+import com.rajeev.vrid_blogapplication.network.BlogService
 import com.rajeev.vridblog.network.model.asDatabaseModel
 import javax.inject.Inject
 
